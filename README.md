@@ -6,3 +6,5 @@ Currently supports character displays using the Adafruit i2c/SPI LCD Backpack, o
 
 Requires the Adafruit Liquid Crystal library, found here:
 https://github.com/adafruit/LiquidCrystal
+
+Yes, I already know I need to rename the project. It's a place holder for sure.
